@@ -4,7 +4,10 @@ I love programming, software enginering, designing, competition and creating ama
 
 I have many self-created software:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TrGiLong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrGiLong)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrGiLong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 

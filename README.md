@@ -4,10 +4,7 @@ I love programming, software enginering, designing, competition and creating ama
 
 I have many self-created software:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrGiLong)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrGiLong)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 Here are some ideas to get you started:
 
@@ -20,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[medium]: https://medium.com/@audhiaprilliant/

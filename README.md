@@ -2,7 +2,7 @@
 
 I love programming, software enginering, designing, competition and creating amazing softwares.
 
-I have many self-created software:
+<!-- I have many self-created software:
 
 [<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
